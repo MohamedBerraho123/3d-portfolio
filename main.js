@@ -43,6 +43,10 @@ let projects = [
     image: 'textures/project-pelotero.jpg',
     url: '',
   },
+  {
+    image: 'textures/back-office.jpg',
+    url: '',
+  },
 ];
 let aboutCameraPos = {
   x: 0.12,

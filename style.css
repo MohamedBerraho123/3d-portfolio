@@ -21,7 +21,7 @@
   /* dark theme variables */
   --color-text-dark: #fff;
   --color-background-dark: #242424;
-  --color-background-icon-dark: #454545;
+  --color-background-icon-dark: #143df5;
 }
 
 *,
@@ -73,7 +73,7 @@ header {
 }
 
 .dark-theme #logo img {
-  filter: brightness(0) invert(1);
+  filter: brightness(1);
 }
 
 .main-nav ul,
